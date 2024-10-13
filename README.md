@@ -1,5 +1,5 @@
 ```bash
-python -m venv venv_pw
+python -m venv env_pw
 .\env_pw\Scripts\activate
 pip install pytest-playwright
 playwright install
