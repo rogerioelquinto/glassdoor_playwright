@@ -1,7 +1,7 @@
 
 # Extraction of Company Rankings Data from Glassdoor
 
-Extracts data from Glassdoor, stores it in a Pandas DataFrame, and then saves it to a CSV file.
+##Extracts data from Glassdoor, stores it in a Pandas DataFrame, and then saves it to a CSV file.
 
 
 ```bash
