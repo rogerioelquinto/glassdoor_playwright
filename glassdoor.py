@@ -68,7 +68,7 @@ async def run(playwright: Playwright, num_paginas: int) -> None:
     new_df = pd.DataFrame(data)
 
     # Define o caminho para o CSV
-    output_path = "C:/Users/Rogerio/Documents/playwright/dados/empresas_glassdoor.csv"
+    output_path = "dados/empresas_glassdoor.csv"
 
     # Salva o DataFrame em um arquivo CSV
     new_df.to_csv(output_path, index=False)
